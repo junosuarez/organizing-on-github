@@ -42,6 +42,10 @@ as well as a separate group with administrative rights on that repository. This 
 the decentralized leadership structure of the organization. There is also an @organizers group to allow global user tagging, and a [`/meta`](https://github.com/beerjs/meta)
 repository to have discussion about the organization. New chapters are formed by the new organizers opening an issue on `/meta`.
 
+### [nodeschool](http://nodeschool.io)
+
+[nodeschool](http://nodeschool.io/) uses github for [hosting workshop code](https://github.com/rvagg/learnyounode), as a [support forum](https://github.com/nodeschool/discussions/), as a [free website host](https://github.com/nodeschool/nodeschool.github.io), and for [teacher discussion and planning](https://github.com/nodeschool/discussions/issues/93)
+
 ## Resources for Github Newcomers
 
 - A 4 minute video on [how to use Github to discuss things](https://www.youtube.com/watch?v=KlrJVSJRUN4)
