@@ -51,7 +51,7 @@ repository to have discussion about the organization. New chapters are formed by
 Please send pull requests and add to this resource! For now, please add examples of other communities to this readme.
 When we get enough to where it becomes unweidly, we'll address it then!
 
-Also see our [CONTRIBUTING.md]().
+Also see our [CONTRIBUTING.md](https://github.com/jden/organizing-on-github/blob/master/CONTRIBUTING.md).
 
 ## contact
 questions / concerns, please get in touch with [@jden](https://github.com/jden)
